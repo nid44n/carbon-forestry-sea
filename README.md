@@ -21,8 +21,13 @@ I did this simple graph in Ms Excel and  some modifcations in Figma to get a mor
 <br /> 
 ## 3️⃣ How does LUCF-based CO₂ emission compare to other sectors (industry, energy, transport, mining) in each country?
 This question aims to investigae whether carbon emission from land use changes (especially from deforestation) dominate one country's total emissions. During the data cleaning process using MySQL, we exclude several countries where they consistently have 0 value for at least one sector. After discovering which countries meet the criteria, we can only include: Indonesia, Malaysia, Thailand, Philippines, Cambodia, Myanmar, and Vietnam. 
- <br /> pake stacked bar chart
+ <br />
+ 
+ <img width="5658" height="2892" alt="asean_emissions_by_sector" src="https://github.com/user-attachments/assets/3671fb79-555f-4a80-809e-bf47af1a9d9a" />
+<br />
+Based on this figure, we can draw insights that Indonesia is the largest CO₂ emitter in SEA with LUCF domination. If we correlate with the previous analysis, we can infer that deforestation is the highest CO₂ emission source in Indonesia, even compared to other countries. However, Cambodia and Myanmar also experience dominant CO₂ emission from LUCF. 
 
 ## 📝Conclusions
-
+1. Tree Cover Loss is the prominent cause of CO₂ emissions from Land-Use Changes and Forestry in Southeast Asian Countries, with Indonesia as the most vulnerable one.
+2. Indonesia
 ## 🙋‍♀️Here's what I suggest
