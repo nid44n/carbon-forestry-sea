@@ -29,5 +29,5 @@ Based on this figure, we can draw insights that Indonesia is the largest CO₂ e
 
 ## 📝Conclusions
 1. Tree Cover Loss is the prominent cause of CO₂ emissions from Land-Use Changes and Forestry in Southeast Asian Countries. Small feature importance of forest area reflects that relative value can't represent the CO₂ emissions.
-2. Indonesia has the highest CO₂ emissions from deforestation followed by Brunei, Malaysia, and Thailand. As for Singapore, the initial CO₂ emission in 2008 - 2013 is negative, meaning carbon removals.
+2. Indonesia has the highest CO₂ emissions from deforestation followed by Brunei, Malaysia, and Thailand. As for Singapore, the initial CO₂ emission in 2008 - 2015 is negative, meaning carbon removals.
 3. LUCF is the dominant source of CO₂ emissions in Indonesia, Cambodia, and Myanmar. Whilst in Malaysia, Thailand, Philippines, and Vietnam, the most dominant CO₂ emissions sourced from energy usage.
